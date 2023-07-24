@@ -16,13 +16,13 @@
   <img align="center" alt="yuri-CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="yuri-bootstrap" height="30" width="120" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="yuri-php" height="30" width="100"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="yuri-wordpress" height="30" width="120"  src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
           
 </div><br>
   <div align="center">
        STUDYING IN THIS MOMENT
   </div>
  <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="yuri-wordpress" height="30" width="120"  src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img align="center" alt="yuri-php" height="30" width="100"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br>
 <div align="center">
